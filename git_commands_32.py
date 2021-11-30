@@ -8,4 +8,4 @@ git branch
 git branch name branch
 git checkout name branch
 git push origin master
-git reset filenames
+git reset filenamess
